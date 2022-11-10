@@ -4,15 +4,11 @@
 
 This is a Decentralized Exchange built with smart contracts powered by Ethereum. It basically consists in a platform where the user can exchange an ERC-20 token called YYU Token by Ether in a secure and descentralized manner.
 
-
-
 ## Table of Contents
 
 - [Getting Started](#getting-started)
 - [The Project](#the-project)
 - [Resources](#resources)
-
-
 
 ## Getting Started
 
