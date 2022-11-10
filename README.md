@@ -116,7 +116,6 @@ Finally you can run the following command to generate the build artifacts of you
 npm run build
 ```
 
-
 ### Technology stack
 
 - `Solidity`
